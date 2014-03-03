@@ -1,0 +1,1 @@
+execVM "ptg_rad_init.sqf";
